@@ -1,0 +1,13 @@
+header h3{background-color: teal;
+        color: white;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+}
+.container .row img{
+    width: 100%;
+    
+}
+
+.row{
+    margin-bottom: 30px; 
+}
